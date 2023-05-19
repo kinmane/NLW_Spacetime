@@ -1,16 +1,15 @@
 export function Copyright() {
   return (
     <div className="text-sm leading-relaxed text-gray-200">
-      Feito com 💜 por{' '}
+      Feito com 💜 no NLW da{' '}
       <a
         target="_blank"
         rel="noreferrer"
         className="underline hover:text-gray-100"
-        href="https://kinmane.vercel.app/"
+        href="https://rocketseat.com.br"
       >
-        Gabriel Souza
+        Rocketseat
       </a>
-      .
     </div>
   )
 }
